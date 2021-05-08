@@ -85,6 +85,14 @@ sudo chmod -R o+rw storage
 ```
 
 
+##LOGIN
+
+With the seeders by default u can access with:
+
+User: admin@test.com
+
+Password: password
+
 
 
 ## Contributing
