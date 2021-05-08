@@ -182,7 +182,6 @@ return [
          * MLOPEZ DEPENDENCIES
          */
         Barryvdh\Debugbar\ServiceProvider::class,
-        Mlopez\IPFS\IPFSServiceProvider::class,
     ],
 
     /*
@@ -239,7 +238,6 @@ return [
          * MLOPEZ DEPENDENCIES
          */
         'Debugbar' => Barryvdh\Debugbar\Facade::class,
-        'IPFS' =>  Mlopez\IPFS\IPFSFacade::class,
     ],
 
 ];
