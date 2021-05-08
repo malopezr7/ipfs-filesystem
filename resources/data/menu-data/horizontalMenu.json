@@ -1,0 +1,9 @@
+{
+  "menu": [
+    {
+      "name": "File Manager",
+      "icon": "save",
+      "slug": "app-file-manager",
+    }
+  ]
+}

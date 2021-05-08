@@ -1,0 +1,10 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "File Manager",
+      "icon": "save",
+      "slug": "file-manager"
+    }
+  ]
+}
